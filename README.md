@@ -7,7 +7,8 @@ The official documentation
     * typings.json
     * systemjs.config.js
     
-* npm install
+$ npm install
+
 * mkdir app
 * create app/app.module.ts
 * create app/app.component.ts
@@ -15,7 +16,8 @@ The official documentation
     * import AppComponent 
     * declarations: [AppComponent]
     * bootstrap [AppComponent]
-* create app/main.ts
+    
+* copy app/main.ts
 * copy index.html
 * copy style.css from [full version](https://github.com/angular/angular.io/blob/master/public/docs/_examples/styles.css)
 
